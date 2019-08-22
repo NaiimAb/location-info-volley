@@ -1,4 +1,4 @@
-### Welcome to IP API for Volley 
+### Welcome to Location Info Volley
 [![](https://jitpack.io/v/SperoApps/location-info-volley.svg)](https://jitpack.io/#SperoApps/location-info-volley)
 
 This is a wrapper of [IP-API](http://ip-api.com/json) for Android platform using Volley.
